@@ -1,0 +1,6 @@
+*.bak
+*.log
+*.zip
+.env
+private/
+test-results/
